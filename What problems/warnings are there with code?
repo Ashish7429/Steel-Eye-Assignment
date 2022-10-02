@@ -1,1 +1,4 @@
-
+warning with code
+DependencyNotFoundError
+Could not find dependency: 'prop-types' relative to '/src/App.js'
+_propTypes.default.shapeOf is not a function
